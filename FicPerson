@@ -1,0 +1,10 @@
+
+public class FicPers {
+    public static void main(String[] args) {
+        System.out.println("Name : Grant");
+        System.out.println("Last Name: Golding");
+        System.out.println("Address: Easy Street");
+        System.out.println("City: New York");
+        System.out.println("Zip Code: 96821");
+    }
+}
